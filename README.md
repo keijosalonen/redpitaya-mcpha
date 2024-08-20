@@ -8,5 +8,5 @@ red-pitaya-notes-xc7z010clg400-1
 
 ## STEMLab125-14 LN
 
-red-pitaya-notes-xc7z010clg400-1
+red-pitaya-notes-xc7z020clg400-1
 
